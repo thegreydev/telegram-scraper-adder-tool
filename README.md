@@ -19,3 +19,4 @@ developer: https://t.me/pysmart
 
 developer: https://t.me/pysmart
  
+automated tool to scrape telegram users from a group or channel
